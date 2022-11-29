@@ -1,11 +1,11 @@
 import Header from './components/Header/Header';
-import Hero from './components/Hero/Hero';
-import Nav from './components/Nav/Nav';
+import Highlight from './components/Highlight/Highlight';
 
 function App() {
   return (
     <div>
         <Header></Header>
+        <Highlight></Highlight>
     </div>
   );
 }

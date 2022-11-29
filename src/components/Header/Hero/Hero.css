@@ -1,5 +1,5 @@
 .bgi{
-    background-image: url('../../Assets//images/hero-cover.png');
+    background-image: url('../../../Assets//images/hero-cover.png');
     background-repeat: no-repeat;
     background-size: cover;
 }

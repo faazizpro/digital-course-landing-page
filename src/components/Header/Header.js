@@ -1,6 +1,6 @@
 import React from 'react';
-import Hero from '../Hero/Hero';
-import Nav from '../Nav/Nav';
+import Hero from './Hero/Hero';
+import Nav from './Nav/Nav';
 
 const Header = () => {
     return (
