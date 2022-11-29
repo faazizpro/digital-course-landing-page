@@ -1,11 +1,9 @@
-import logo from './logo.svg';
-import './App.css';
-import Simple from './Pages/Simple';
+import Hero from './components/Hero/Hero';
 
 function App() {
   return (
-    <div className="App">
-        <Simple></Simple>
+    <div>
+        <Hero></Hero>
     </div>
   );
 }
