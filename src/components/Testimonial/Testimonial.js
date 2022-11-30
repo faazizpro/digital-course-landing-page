@@ -2,7 +2,7 @@ import React from 'react';
 
 const Testimonial = () => {
     return (
-        <div>
+        <div id='review'>
             <section class="bg-white">
                 <div class="mx-auto max-w-screen-xl px-4 py-16 sm:px-6 sm:py-24 lg:px-8">
                     <div class="mx-auto max-w-xl text-center">

@@ -2,7 +2,7 @@ import React from 'react';
 
 const Cta = () => {
     return (
-        <div className='mb-20'>
+        <div className='mb-20' id='contact'>
             <section class="w-full max-w-2xl px-6 py-4 mx-auto  rounded-md shadow-md  text-black">
                 <h2 class="text-3xl lg:text-5xl font-semibold text-center ">Get in touch</h2>
 

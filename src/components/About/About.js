@@ -5,7 +5,7 @@ import line from '../../Assets/images/Line.png';
 
 const About = () => {
     return (
-        <div className='h-[900px] author-bg mb-32 grid items-center justify-items-center'>
+        <div className='h-[900px] author-bg mb-32 grid items-center justify-items-center' id='about'>
             <div className='h-[750px] lg:h-[600px] w-[350px] md:w-[1300px] brd bg-white shadow-2xl shadow-pink-200 '>
                 {/* grid grid-cols-2 justify-items-center items-center */}
                 <div className='lg:flex justify-center items-center self-center'>

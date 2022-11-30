@@ -7,7 +7,7 @@ import './Highlight.css';
 
 const Highlight = () => {
     return (
-        <div className='bg-slate-800  md:h-[900px] pt-10 pb-20  hig'>
+        <div className='bg-slate-800  md:h-[900px] pt-10 pb-20  hig' id='product'>
             <div className='md:flex gap-5 w-3/4 mx-auto lg:max-w-7xl justify-center'>
                 <div className='md:mt-52'>
                     <div className="divider bg-red-500 w-1/4 h-2"></div>

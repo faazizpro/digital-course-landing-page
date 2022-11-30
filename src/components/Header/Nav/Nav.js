@@ -7,13 +7,19 @@ const Nav = () => {
             <a href='/'>Home</a>
         </li>
         <li className='mr-3 hover:text-sky-500'>
-            <a href='/'>Product</a>
+            <a href='#product'>Product</a>
         </li>
         <li className='mr-3 hover:text-sky-500'>
-            <a href='/'>Pricing</a>
+            <a href='#about'>About Me</a>
         </li>
         <li className='mr-3 hover:text-sky-500'>
-            <a href='/'>Contact</a>
+            <a href='#pricing'>Pricing</a>
+        </li>
+        <li className='mr-3 hover:text-sky-500'>
+            <a href='#review'>Review</a>
+        </li>
+        <li className='mr-3 hover:text-sky-500'>
+            <a href='#contact'>Contact</a>
         </li>
     </React.Fragment>
 

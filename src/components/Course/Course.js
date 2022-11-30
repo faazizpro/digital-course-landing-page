@@ -9,7 +9,7 @@ import { RiArrowRightSLine } from 'react-icons/ri';
 
 const Course = () => {
     return (
-        <div className='mb-20'>
+        <div className='mb-20' id='pricing'>
             <div>
                 <h2 className='mb-10 text-center text-base font-bold font-poppins lg:text-5xl'>
                     Our Most Selling Courses
