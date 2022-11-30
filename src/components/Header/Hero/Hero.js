@@ -3,7 +3,7 @@ import './Hero.css';
 
 const Hero = () => {
     return (
-        <div className='md:h-[600px] w-3/4 mx-auto pb-10'>
+        <div className='md:h-[600px] w-3/4 mx-auto pb-10' id='home'>
             <div className='w-full md:w-6/12 '>
                 <h3 className='text-sky-500 font-bold text-lg mb-10'>Join Us</h3>
                 <h2 className='font-poppins font-bold text-3xl md:text-6xl leading-normal	'>Selling on the <br /> internet like a pro</h2>

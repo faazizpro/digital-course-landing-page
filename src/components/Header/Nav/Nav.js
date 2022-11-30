@@ -4,7 +4,7 @@ import { BsArrowRightShort } from 'react-icons/bs'
 const Nav = () => {
     const menuItem = <React.Fragment>
         <li className='mr-3 hover:text-sky-500'>
-            <a href='/'>Home</a>
+            <a href='#home'>Home</a>
         </li>
         <li className='mr-3 hover:text-sky-500'>
             <a href='#product'>Product</a>
