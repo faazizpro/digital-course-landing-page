@@ -1,0 +1,10 @@
+.author-bg{
+    background-image: url('../../Assets//images//Background.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.brd{
+    border: 5px solid rgba(255, 182, 193, 0.39);
+    border-radius: 30px;
+}

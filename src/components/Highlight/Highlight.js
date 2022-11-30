@@ -2,11 +2,12 @@ import React from 'react';
 import right from '../../Assets/icons/right.png';
 import love from '../../Assets/icons/love.png';
 import news from '../../Assets/icons/fixed-width.png';
-import { RiArrowRightSLine } from 'react-icons/ri'
+import { RiArrowRightSLine } from 'react-icons/ri';
+import './Highlight.css';
 
 const Highlight = () => {
     return (
-        <div className='bg-slate-800  md:h-[900px] pt-10 pb-20 mb-20'>
+        <div className='bg-slate-800  md:h-[900px] pt-10 pb-20  hig'>
             <div className='md:flex gap-5 w-3/4 mx-auto lg:max-w-7xl justify-center'>
                 <div className='md:mt-52'>
                     <div className="divider bg-red-500 w-1/4 h-2"></div>
@@ -27,7 +28,7 @@ const Highlight = () => {
                 <div>
                     <div className=' md:grid grid-cols-2 items-center mt-10'>
                         <div className='grid grid-rows-2 gap-10'>
-                            <div className="md:w-3/5 bg-white border border-gray-200 rounded-lg shadow-md ">
+                            <div className="md:w-3/4 bg-white border border-gray-200 rounded-lg shadow-md ">
                                 <div className='p-5'>
                                     <div>
                                         <img className="pl-3" src={right} />
@@ -41,14 +42,14 @@ const Highlight = () => {
                                     </div>
                                 </div>
                             </div>
-                            <div className="md:w-3/5 bg-white border border-gray-200 rounded-lg shadow-md ">
+                            <div className="md:w-3/4 bg-white border border-gray-200 rounded-lg shadow-md ">
                                 <div className='p-5'>
                                     <div>
-                                        <img className="pl-3" src={right} />
+                                        <img className="pl-3" src={love} />
                                     </div>
                                     <div className="p-3">
                                         <div>
-                                            <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 ">Books Liberary</h5>
+                                            <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 ">Market Analysis</h5>
                                         </div>
                                         <div className='divider bg-red-600 h-1 w-1/3'></div>
                                         <p className="mb-3 text-gray-500 font-medium">The gradual accumulation of information about. </p>
@@ -57,14 +58,14 @@ const Highlight = () => {
                             </div>
                         </div>
                         <div className='mt-10 md:mt-0'>
-                            <div className="md:w-3/5 bg-white border border-gray-200 rounded-lg shadow-md ">
+                            <div className="md:w-3/4 bg-white border border-gray-200 rounded-lg shadow-md ">
                                 <div className='p-5'>
                                     <div>
-                                        <img className="pl-3" src={right} />
+                                        <img className="pl-3" src={news} />
                                     </div>
                                     <div className="p-3">
                                         <div>
-                                            <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 ">Books Liberary</h5>
+                                            <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 ">2,769 online courses</h5>
                                         </div>
                                         <div className='divider bg-red-600 h-1 w-1/3'></div>
                                         <p className="mb-3 text-gray-500 font-medium">The gradual accumulation of information about. </p>
@@ -75,6 +76,7 @@ const Highlight = () => {
                     </div>
                 </div>
             </div>
+            
         </div>
     );
 };
