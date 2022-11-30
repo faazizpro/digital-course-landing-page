@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/digital-course-landing-page/static/css/main.eba0aca6.css",
+    "main.js": "/digital-course-landing-page/static/js/main.9dc87f29.js",
+    "static/js/787.6fd22c3e.chunk.js": "/digital-course-landing-page/static/js/787.6fd22c3e.chunk.js",
+    "static/media/about.png": "/digital-course-landing-page/static/media/about.738a59d1748e949cc6b5.png",
+    "static/media/hero-cover.png": "/digital-course-landing-page/static/media/hero-cover.77507f1e70e3019f1c22.png",
+    "static/media/Background.png": "/digital-course-landing-page/static/media/Background.97c6998162d900e10efd.png",
+    "static/media/development.png": "/digital-course-landing-page/static/media/development.7a85d7ed2e553d969cc9.png",
+    "static/media/graphic.png": "/digital-course-landing-page/static/media/graphic.10a2dfea723a29c149bb.png",
+    "static/media/SEO.png": "/digital-course-landing-page/static/media/SEO.b1ebb6bd3dca461617d4.png",
+    "index.html": "/digital-course-landing-page/index.html",
+    "main.eba0aca6.css.map": "/digital-course-landing-page/static/css/main.eba0aca6.css.map",
+    "main.9dc87f29.js.map": "/digital-course-landing-page/static/js/main.9dc87f29.js.map",
+    "787.6fd22c3e.chunk.js.map": "/digital-course-landing-page/static/js/787.6fd22c3e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eba0aca6.css",
+    "static/js/main.9dc87f29.js"
+  ]
+}
