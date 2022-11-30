@@ -30,7 +30,7 @@ const Testimonial = () => {
                             >
                                 <p class="text-lg font-bold text-gray-700">Samuel</p>
                                 <p class="mt-1 text-xs font-medium text-gray-500">
-                                    Digital Marketing at Studio
+                                    Graphic Designer
                                 </p>
                                 <p class="mt-4 text-sm text-gray-500">
                                     FaazizPRO-ED is expertise at delivering the trendy designs.
@@ -101,7 +101,7 @@ const Testimonial = () => {
                             <blockquote
                                 class="-mt-6 flex flex-col justify-between rounded-lg p-12 text-center shadow-xl"
                             >
-                                <p class="text-lg font-bold text-gray-700">Henry</p>
+                                <p class="text-lg font-bold text-gray-700">Henrey</p>
                                 <p class="mt-1 text-xs font-medium text-gray-500">
                                     Web Application Developer
                                 </p>

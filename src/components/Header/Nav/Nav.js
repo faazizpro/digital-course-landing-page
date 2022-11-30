@@ -45,7 +45,7 @@ const Nav = () => {
                         </div>
                     </div>
 
-                    <div className='flex md:flex-row flex-col items-center'>
+                    <div className='flex md:flex-row flex-col items-center '>
                         <h2 className='text-sky-500  font-bold text-sm md:text-xl mb-2 md:mb-0'>Login</h2>
                         <div className='ml-2 md:ml-5'>
                             <button className='text-white bg-sky-500  md:py-2 md:px-3 text-xm md:text-xl inline-flex items-center rounded-md'>
