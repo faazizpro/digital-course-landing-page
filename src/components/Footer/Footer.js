@@ -1,6 +1,9 @@
 import React from 'react';
+import ScrollToTop from "react-scroll-to-top";
+
 
 const Footer = () => {
+    
     return (
         <div>
             <footer className="px-4 divide-y dark:bg-gray-800 dark:text-gray-100">
@@ -73,6 +76,7 @@ const Footer = () => {
                 </div>
                 <div className="py-6 text-sm text-center dark:text-gray-400">© 1968 Company Co. All rights reserved.</div>
             </footer>
+            <ScrollToTop smooth />
         </div>
     );
 };
